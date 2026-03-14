@@ -1,0 +1,144 @@
+
+/* background */
+body {
+  background-color: purple;
+}
+
+
+
+header {
+  text-align: center;
+}
+
+h3 {
+  text-align: right;
+}
+
+h4 {
+   text-align: center;
+}
+
+p3 {
+  text-align: right;
+}
+
+p5 {
+  text-align: center;
+}
+
+/* margins */
+p1 {
+  line-height: 1.5;
+}
+
+p2 {
+  line-height: 1.5;
+}
+
+h3 {
+  line-height: 1.5;
+}
+
+p5 {
+  line-height: 1.5;
+}
+h6 {
+  line-height: 0;
+}
+
+title {
+  font-size: 60px;
+}
+
+header {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+h4 {
+  font-size: 40px;
+}
+
+p {
+  font-size: 20px;
+}
+
+p1 {
+  font-size: 16px;
+}
+p2 {
+  font-size: 16px;
+}
+
+p3 {
+  font-size: 20px;
+}
+
+p4 {
+  font-size: 20px
+}
+
+p5 {
+  font-size: 20px;
+}
+
+/* colors */
+h1 {
+  color: blue;
+}
+
+h2 {
+  color: black;
+}
+
+h3 {
+  color: black;
+}
+
+h4 {
+  color: cyan;
+}
+
+p {
+  color: white;
+}
+
+p1 {
+  color: white;
+}
+
+p2 {
+  color: white;
+}
+
+p3 {
+  color: white;
+}
+
+
+p5 {
+  color: white;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+
+
+
+
+
+
+
